@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="howardatri">
+  <title>howardatri</title>
+  <rect width="880" height="200" fill="#FFFFFF"/>
+
+  <rect x="0" y="46" width="28" height="2" fill="#2E5D4F"/>
+
+  <text x="0" y="110" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1.5" fill="#1F2328">howardatri</text>
+  <text x="1" y="138" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#656D76">REACT AGENTS &#183; CONTEXT EFFICIENCY &#183; MEASUREMENT</text>
+
+  <line x1="0" y1="176" x2="880" y2="176" stroke="#DDE1E5" stroke-width="1"/>
+</svg>

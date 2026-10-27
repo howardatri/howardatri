@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="148" viewBox="0 0 880 148" role="img" aria-label="Prompt tokens: 217,853 to 132,067, minus 39.4 percent">
+  <title>Prompt tokens: 217,853 &#8594; 132,067 (&#8722;39.4%)</title>
+  <rect width="880" height="148" fill="#0D1117"/>
+  <line x1="0" y1="0.5" x2="880" y2="0.5" stroke="#30363D" stroke-width="1"/>
+
+  <text x="0" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#8B949E">PROMPT TOKENS &#183; LONG-CONTEXT CODING TASKS &#183; FIXED-TRAJECTORY REPLAY</text>
+
+  <text x="0" y="106" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="34" fill="#E6EDF3">217,853</text>
+  <text x="156" y="106" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="26" fill="#4C5661">&#8594;</text>
+  <text x="198" y="106" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="34" fill="#E6EDF3">132,067</text>
+
+  <text x="880" y="106" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="44" font-weight="500" fill="#7FB39D">&#8722;39.4%</text>
+
+  <text x="0" y="131" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#8B949E">54 / 54 steps on both arms &#183; deterministic &#183; reproduces with no API key</text>
+
+  <line x1="0" y1="147.5" x2="880" y2="147.5" stroke="#30363D" stroke-width="1"/>
+</svg>
