@@ -9,7 +9,7 @@ I build small systems, and then the instrument that decides whether they actuall
 
 **hoagent** — a lightweight ReAct coding agent in Python. Multi-provider, 19 tools, built to be measured rather than demoed.
 
-**LLM for IR** — my research direction: information retrieval, and what large models change about it. Right now that means reproducing OneRec, which reframes recommendation as generation rather than ranking a fixed candidate set.
+**LLM for IR** — my research direction: generative retrieval. The model emits a document's identifier directly, instead of scoring a fixed candidate set. Right now that means reproducing OneRec, which applies the same idea to recommendation.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/result-dark.svg">
